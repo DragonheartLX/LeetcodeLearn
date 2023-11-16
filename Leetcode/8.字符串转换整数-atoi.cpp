@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode.cn id=5 lang=cpp
+ * @lc app=leetcode.cn id=8 lang=cpp
  *
- * [5] 最长回文子串
+ * [8] 字符串转换整数 (atoi)
  */
 #include <string>
 
@@ -9,7 +9,7 @@ using namespace std;
 // @lc code=start
 class Solution {
 public:
-    string longestPalindrome(string s) {
+    int myAtoi(string s) {
 
     }
 };
